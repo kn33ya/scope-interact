@@ -1,0 +1,6 @@
+html, body {
+  margin: 0;
+  overflow: hidden;
+  overscroll-behavior: none;
+}
+canvas { display: block; touch-action: none; }
